@@ -12,10 +12,6 @@ An interactive Power BI dashboard designed to analyze sales performance, categor
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
-## Dashboard Preview
-
 ### 1. Executive Overview
 ![Overview](1-%20Overview.png)
 
@@ -30,6 +26,9 @@ An interactive Power BI dashboard designed to analyze sales performance, categor
 
 ### 5. Sales Prediction
 ![Prediction](5%20-%20Prediction.png)
+
+---
+
 ## Files Included
 * `MY Mart - Sales Analytics Dashboard.pbix` - The core Power BI dashboard file.
 * `MY_Mart_Sales_Data.xlsx` - Raw transactional dataset used for the analysis.
